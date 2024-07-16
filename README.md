@@ -5,8 +5,8 @@
 (description from the CWRU prompt)
 
 ## Table of Contents
-I. Acceptance Criteria
-II. Example Image of Application
-III. Video Walk-through Tutorial
-IV. Helpful Resources
+I. Acceptance Criteria <br>
+II. Example Image of Application <br>
+III. Video Walk-through Tutorial <br>
+IV. Helpful Resources <br>
 V. License
