@@ -37,7 +37,7 @@ V. [License](#license---mit-license)
 ![image of created logo](images/generatedlogo.png)
 
 ## Video Tutorial
-![Video Walkthrough](https://app.screencastify.com/v3/watch/QXtZSuz9Kw9vzGPz1IHS)
+[Video Walkthrough](https://app.screencastify.com/v3/watch/QXtZSuz9Kw9vzGPz1IHS)
 
 ### Helpful Resources
 - [World Wide Web Consortium (W3C)](https://www.w3.org/) <br>
