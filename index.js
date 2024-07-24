@@ -7,7 +7,8 @@ const { Triangle, Circle, Square } = require('./lib/shapes');
 
 
 // set this up very similarly to mini project 09, 
-//but changed the promises for async so that the function doesn't tie up the entire document while it runs
+// but changed the promises for async so that the function doesn't tie up the entire document while it runs
+// though i suppose since this is the entire point of the app it could have been done in promises
 
 const prompt = async () => {
     const answers = await inquirer.prompt([
@@ -52,12 +53,19 @@ switch (shape) {
 
 shapeSVG.setColor(shapeColor);
 
+// different ideas for setting these stats are on mdn.com svg/tutorial/texts etc
+// the first part is setting the logo to the 300 x 200 specified by the cwru prompt
+// and the second part is setting the text to be centered, colored, and its size
+
 const svgContent = `
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
   ${shapeSVG.render()}
   <text x="150" y="125" font-size="48" text-anchor="middle" fill="${textColor}">${text}</text>
 </svg>
 `;
+
+// this creates the logo file!!
+// its very exciting when it appears in the list of files
 
 fs.writeFileSync('logo.svg', svgContent);
   console.log('Generated logo.svg');
