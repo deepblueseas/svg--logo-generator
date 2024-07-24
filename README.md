@@ -11,8 +11,9 @@ According to [mdn.com](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 I. [Acceptance Criteria](#acceptance-criteria-from-the-cwru-prompt) <br>
 II. Example Image of Application <br>
 III. Video Walk-through Tutorial <br>
-IV. Helpful Resources <br>
-V. License
+IV. [Link to try it out]<br>
+V. Helpful Resources <br>
+VI. License
 
 ## Acceptance Criteria (from the CWRU prompt)
 > - GiVEN a command line application that accepts user input (using Inquirer)
