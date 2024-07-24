@@ -9,11 +9,10 @@ According to [mdn.com](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial
 
 ### Table of Contents
 I. [Acceptance Criteria](#acceptance-criteria-from-the-cwru-prompt) <br>
-II. Example Image of Application <br>
-III. Video Walk-through Tutorial <br>
-IV. [Link to try it out]<br>
-V. Helpful Resources <br>
-VI. License
+II. [Example Image of Application](#example-of-working-application) <br>
+III. [Video Walk-through Tutorial](#video-tutorial) <br>
+IV. [Helpful Resources](#helpful-resources) <br>
+V. [License](#license---mit-license)
 
 ## Acceptance Criteria (from the CWRU prompt)
 > - GiVEN a command line application that accepts user input (using Inquirer)
@@ -33,7 +32,12 @@ VI. License
 > - When I open the **logo.svg** file in a browser
 >   - Then I am shown a 300x200 pixel image that matches the criteria entered in the command line
 
+## Example of Working Application
+![image of command line](images/clisvg.png)<br>
+![image of created logo](images/generatedlogo.png)
 
+## Video Tutorial
+![Video Walkthrough](https://app.screencastify.com/v3/watch/QXtZSuz9Kw9vzGPz1IHS)
 
 ### Helpful Resources
 - [World Wide Web Consortium (W3C)](https://www.w3.org/) <br>
