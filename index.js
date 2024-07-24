@@ -1,3 +1,6 @@
+// to be cleaner, this file could have been set up to just run a CLI function
+// and the code below could have been in a cli.js like in the mini project
+
 const fs = require('fs');
 const inquirer = require('inquirer');
 const { Triangle, Circle, Square } = require('./lib/shapes');
